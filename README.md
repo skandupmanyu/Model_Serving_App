@@ -1,5 +1,7 @@
 # A containerized application for serving your Scikit Models as an API
 
+![](https://github.com/skandupmanyu/Model_Serving_App/blob/master/screenshot/interface.png)
+
 Build container image:
 ```
 docker build -t serving_app .
