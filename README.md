@@ -11,7 +11,7 @@ docker run -p 5000:5000 --name=serving_model serving_app
 ```
 
 - Go to <Your local IP address>:5000 in your browser (example: http://192.168.1.132:5000/)
-- Upload your model (you can use one in the sample_model folder and observe the code used for training)
+- Upload your model (you can use the one in the sample_model folder and observe the code used for training)
 - Open terminal and make an API request using:
 
 ```
